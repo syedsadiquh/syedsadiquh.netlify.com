@@ -36,3 +36,10 @@ body{
 .name {
     text-align: center;
 }
+
+.connect{
+    text-align: center;
+    position: relative;
+    border: 5px;
+    
+}
